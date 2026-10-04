@@ -1,1 +1,6 @@
- HusnaCloud git dersleri
+HusnaCloud git dersleri
+git status 
+git add
+git commit
+git push
+
