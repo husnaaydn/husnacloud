@@ -3,4 +3,7 @@ git status
 git add
 git commit
 git push
-
+git fetch = remote degisikliklerini indirir, dosyalari degistirmez
+git pull = remote degisikliklerini local branch'e getirir
+git stash = commit edilmemis degisiklikleri gecici saklar
+git revert = bir commitin tersini yeni commit olarak olusturur
